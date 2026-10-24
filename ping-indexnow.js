@@ -3,8 +3,8 @@ const path = require('path');
 const https = require('https');
 
 const HOST = 'async-agency.pages.dev';
-const KEY = 'YOUR_INDEXNOW_KEY_HERE'; // Replace with your IndexNow key string
-const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
+const KEY = '16d9ee2660ec4372bdeef3994bb6440d'; // Replace with your IndexNow key string
+const KEY_LOCATION = `https://async-agency.pages.dev/16d9ee2660ec4372bdeef3994bb6440d.txt`;
 
 const urlsFile = path.join(__dirname, 'urls.txt');
 let urlList = [];
