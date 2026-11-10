@@ -46,7 +46,7 @@ for (const value of rawUrls) {
   }
 
   if (
-    url.hostname.toLowerCase() !== 'async-agency.pages.dev' ||
+    url.hostname.toLowerCase() !== 'async-agency.pageaura.xyz' ||
     !['http:', 'https:'].includes(url.protocol) ||
     url.username ||
     url.password
