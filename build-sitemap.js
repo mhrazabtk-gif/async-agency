@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DOMAIN = 'https://async-agency.pages.dev';
+const DOMAIN = 'https://async-agency.pageaura.xyz';
 const KEY = '16d9ee2660ec4372bdeef3994bb6440d';
 
 const ROOT = __dirname;
